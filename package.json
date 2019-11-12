@@ -19,6 +19,7 @@
   "homepage": "https://github.com/FEC-GOKU/BTetsy-Dang-Proxy#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "newrelic": "^6.1.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0"
   },
